@@ -9,7 +9,7 @@ A .NET 10 [file-based program](https://learn.microsoft.com/en-us/dotnet/csharp/f
 ## Overview
 
 This project showcases how to build an end-to-end data ingestion pipeline that:
-- Reads Markdown documents from a directory
+- Reads Policy documents from a directory
 - Enriches content with AI-generated image descriptions
 - Chunks text using semantic similarity
 - Generates AI summaries for each chunk
